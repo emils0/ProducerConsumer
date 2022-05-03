@@ -1,0 +1,15 @@
+/Users/emil/RiderProjects/ProducerConsumer/ProducerConsumer/bin/Debug/net6.0/ProducerConsumer
+/Users/emil/RiderProjects/ProducerConsumer/ProducerConsumer/bin/Debug/net6.0/ProducerConsumer.deps.json
+/Users/emil/RiderProjects/ProducerConsumer/ProducerConsumer/bin/Debug/net6.0/ProducerConsumer.runtimeconfig.json
+/Users/emil/RiderProjects/ProducerConsumer/ProducerConsumer/bin/Debug/net6.0/ProducerConsumer.dll
+/Users/emil/RiderProjects/ProducerConsumer/ProducerConsumer/bin/Debug/net6.0/ProducerConsumer.pdb
+/Users/emil/RiderProjects/ProducerConsumer/ProducerConsumer/obj/Debug/net6.0/ProducerConsumer.csproj.AssemblyReference.cache
+/Users/emil/RiderProjects/ProducerConsumer/ProducerConsumer/obj/Debug/net6.0/ProducerConsumer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emil/RiderProjects/ProducerConsumer/ProducerConsumer/obj/Debug/net6.0/ProducerConsumer.AssemblyInfoInputs.cache
+/Users/emil/RiderProjects/ProducerConsumer/ProducerConsumer/obj/Debug/net6.0/ProducerConsumer.AssemblyInfo.cs
+/Users/emil/RiderProjects/ProducerConsumer/ProducerConsumer/obj/Debug/net6.0/ProducerConsumer.csproj.CoreCompileInputs.cache
+/Users/emil/RiderProjects/ProducerConsumer/ProducerConsumer/obj/Debug/net6.0/ProducerConsumer.dll
+/Users/emil/RiderProjects/ProducerConsumer/ProducerConsumer/obj/Debug/net6.0/refint/ProducerConsumer.dll
+/Users/emil/RiderProjects/ProducerConsumer/ProducerConsumer/obj/Debug/net6.0/ProducerConsumer.pdb
+/Users/emil/RiderProjects/ProducerConsumer/ProducerConsumer/obj/Debug/net6.0/ProducerConsumer.genruntimeconfig.cache
+/Users/emil/RiderProjects/ProducerConsumer/ProducerConsumer/obj/Debug/net6.0/ref/ProducerConsumer.dll
